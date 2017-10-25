@@ -20,7 +20,8 @@ div.macbook-mockup {
   overflow:hidden;
   background:url(../../assets/img/screen-content-macbook.jpg);
   background-size:cover;
-  background-position:center;
+  background-position:top;
+  background-repeat:no-repeat;
 }
 
 .macbook-mockup .screen:before {
